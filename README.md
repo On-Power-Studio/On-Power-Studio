@@ -11,7 +11,12 @@
   🎓 Recent top-3 finalist in <strong>Karnataka State Police Hackathon</strong> <br>
 </p>
 
-<!-- GitHub Stats, Streak, and Top Languages -->
+<!-- Animated Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=On-Power-Studio&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<!-- GitHub Stats, Streak, and Top Languages with Bounce Animation -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=On-Power-Studio&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=On-Power-Studio&theme=radical" alt="GitHub Streak" />
@@ -20,7 +25,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=On-Power-Studio&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Featured Projects with Shields.io Badges -->
+<!-- Featured Projects with Hover Effect -->
 ## 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/On-Power-Studio/Predictive-Crime-Analytics">
@@ -29,6 +34,11 @@
   <a href="https://github.com/On-Power-Studio/theonlyGreen">
     <img src="https://img.shields.io/badge/theonlyGreen-Project-brightgreen?style=for-the-badge&logo=flutter&logoColor=white" alt="theonlyGreen" />
   </a>
+</p>
+
+<!-- GitHub Contribution Snake Animation -->
+<p align="center">
+  <img src="https://github.com/On-Power-Studio/On-Power-Studio/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 <!-- Latest Activity with GitHub Actions -->
@@ -44,13 +54,13 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=On-Power-Studio&theme=dark" alt="Contribution Graph" />
 </p>
 
-<!-- Skills and Tools Section with Icons -->
+<!-- Skills and Tools Section with Icons and Animation -->
 ## 🛠 Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=5D4E60&logoWidth=30" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00&color=5D4E60&logoWidth=30" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B&color=5D4E60&logoWidth=30" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0078D4&color=5D4E60&logoWidth=30" alt="Azure" />
 </p>
 
 <!-- Footer with Social Links -->
